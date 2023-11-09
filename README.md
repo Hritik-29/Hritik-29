@@ -1,3 +1,4 @@
+![My Banner](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Hritik Srivastava</h1>
 <h3 align="center">Cracking the code of data realms, one query at a time! 🚀✨</h3>
 <img align="right" alt="Analytics" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
